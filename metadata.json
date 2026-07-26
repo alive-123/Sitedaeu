@@ -1,0 +1,6 @@
+{
+  "name": "Cap DAEU B — Espace de progression d’Elias",
+  "description": "Plateforme d'apprentissage et de préparation intensive au DAEU B scientifique pour Elias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
